@@ -42,7 +42,17 @@
     background-repeat:no-repeat;
 }
 #blueBadgeBG {
-    background-image: url('../assets/bluebadge.PNG');
+    background-image: url('../assets/comboDoc.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+#SWADEwound {
+    background-image: url('../assets/swadeCalc.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+#scrambleBG {
+    background-image: url('../assets/scramble.png');
     background-size:cover;
     background-repeat:no-repeat;
 }
